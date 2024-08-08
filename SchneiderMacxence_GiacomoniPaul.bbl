@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{livre}
+Jean-François Colonna.
+\newblock {\em Le bug de l'an 2000}.
+\newblock Bernard Aumont, 1999.
+
+\bibitem{vid}
+Institut~National de~l'Audiovisuel.
+\newblock Bug an 2000.
+\newblock YouTube video, 2012.
+
+\bibitem{y2k}
+John Doe.
+\newblock The y2k problem: Causes, effects, and solutions.
+\newblock Article, 1999.
+\newblock Consulté le 12 avril 2024.
+
+\bibitem{infoquo}
+John Doe.
+\newblock L'importance croissante de l'informatique dans la vie quotidienne.
+\newblock Article, 2020.
+\newblock Consulté le 12 avril 2024.
+
+\bibitem{ina}
+{Institut National de l'Audiovisuel}.
+\newblock Ce bug de l'an 2000 qui devait bloquer la planète mais qui n'a pas
+  eu lieu, 2021.
+\newblock
+  \url{https://www.ina.fr/ina-eclaire-actu/an-2000-comment-un-bug-informatique-faillit-aneantir-le-monde}.
+
+\bibitem{arcticle}
+Nicolas Sanders.
+\newblock Il y a 20 ans, le bug de l’an 2000 et la fin du monde qui n'ont pas
+  eu lieu, 2019.
+\newblock Journal de rFi.
+
+\bibitem{bug2000}
+John Smith.
+\newblock Facing the imminent threat posed by the y2k bug.
+\newblock {\em Journal of Technology Management}, 15(3):45--56, September 1998.
+
+\bibitem{wik}
+Wikipedia.
+\newblock Passage informatique à l'an 2000, 2024.
+\newblock
+  \url{https://fr.wikipedia.org/wiki/Passage_informatique_%C3%A0_l%27an_2000}.
+
+\end{thebibliography}
